@@ -1,4 +1,6 @@
-Header {
+* {
+  background-color: #d3a625;
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
